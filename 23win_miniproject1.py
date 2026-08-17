@@ -2,9 +2,9 @@ from datetime import datetime
 
 # ข้อมูลนักเรียนตั้งต้น
 student = {
-    "name": "น้องพีรภัทร",
-    "class": "ม.5/2",
-    "number": 15,
+    "name": "พีรพันธุ์ ช้างเขียว",
+    "class": "ม.4/4",
+    "number": 23,
     "base_score": 100,
     "logs": []
 }
